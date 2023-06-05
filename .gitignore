@@ -1,0 +1,17 @@
+*.exe
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+*.idb
+*.log
+
+.vs/
+.vscode/
+
+customer
+employee
+account
+loan
+customerloan
