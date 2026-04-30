@@ -482,6 +482,16 @@ So this means the value of the project is not only in what it does, but also in 
 
 ---
 
+## Project Provenance
+
+This project was originally developed locally during the 2022-2023 academic year, 2nd semester, with the main implementation period falling in Khordad 1402, from late May to late June 2023.
+
+The Git history in this repository was reconstructed later to reflect that original local development timeline as accurately as possible. The later GitHub import or push date reflects when the repository was published to GitHub, not when the work was first created.
+
+Commit messages and file contents were preserved during this migration. Only commit dates were rewritten to match the real development period.
+
+---
+
 ## Short Recap
 
 This project is a **role-based console banking system in C++** with:
